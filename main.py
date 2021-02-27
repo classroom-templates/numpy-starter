@@ -43,6 +43,7 @@ print()
 # arrays we created are in order. We will learn to search for min and max later.
 #
 # average may calculate as a float, make it an int to store it in the stats array
+# or just use integer divsion to guarantee an int when you calculate
 
 ###########################################################
 # erase this comment and code filling your stats array here
